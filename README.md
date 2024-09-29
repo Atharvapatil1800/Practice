@@ -1,1 +1,1 @@
-# Practice
+print ("Hello World")
